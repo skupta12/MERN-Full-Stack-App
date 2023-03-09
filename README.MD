@@ -1,4 +1,6 @@
 # Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine - Client App (dev)
+</br>
+https://www.youtube.com/watch?v=k4lHXIzCEkM&t=5437s - 1:30:37
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
